@@ -26,8 +26,6 @@ Kolizje (sytuacje, gdy różne klucze wskażą ten sam indeks) należy rozwiązy
 $(Hash(key) + j^2 + 23 \times j) \pmod{101}$  
 dla $j = 1, \dots, 19$. Jeśli po sprawdzeniu 20 pozycji (łącznie z pozycją bazową dla $j=0$) algorytm nie znajdzie miejsca, operacja wstawiania zostaje zignorowana.
 
-*Oryginalne tagi: `#hash-table` `#hashing`*
-
 ---
 
 ## ⚙️ Specyfikacja danych
