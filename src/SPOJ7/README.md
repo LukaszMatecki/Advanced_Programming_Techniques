@@ -27,7 +27,7 @@ Twoim zadaniem jest obliczenie najmniejszej możliwej liczby mutacji, które prz
 * Druga linia to ciąg znaków o długości $N$, składający się wyłącznie z liter `A` i `B`, reprezentujący stan początkowy.
 
 **Wyjście (Output):**
-* Należy wypisać dokładnie jedną liczbę – wymaganą minimalną liczbę mutacji. *(Pierwsze z przygotowanych rozwiązań dodaje do wyniku opisowy komentarz).*
+* Należy wypisać dokładnie jedną liczbę – wymaganą minimalną liczbę mutacji.
 
 ---
 
@@ -35,35 +35,9 @@ Twoim zadaniem jest obliczenie najmniejszej możliwej liczby mutacji, które prz
 
 Aby zachować przejrzystość, poniżej zestawiono trzy odrębne przypadki testowe z treści zadania w jednym bloku:
 
-<table>
-  <tr>
-    <th width="50%">Wejście (Input)</th>
-    <th width="50%">Wyjście (Output)</th>
-  </tr>
-  <tr>
-    <td valign="top">
-<pre>
-4
-ABBA
-
-5
-BBABB
-
-12
-AAABBBAAABBB
-</pre>
-    </td>
-    <td valign="top">
-<pre>
-2
-
-2
-
-4
-</pre>
-    </td>
-  </tr>
-</table>
+| Wejście (Input) | Wyjście (Output) |
+| :--- | :--- |
+| `4`<br>`ABBA`<br><br>`5`<br>`BBABB`<br><br>`12`<br>`AAABBBAAABBB` | `2`<br><br><br>`2`<br><br><br>`4` |
 
 ---
 
