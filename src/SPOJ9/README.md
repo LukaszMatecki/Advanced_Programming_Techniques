@@ -21,8 +21,6 @@ Wyrażenie zapisane jest w **notacji polskiej (prefiksowej)**, co oznacza, że o
 
 Zmienne są reprezentowane przez małe litery alfabetu (`a-z`). Gwarantowane jest, że w pojedynczym wyrażeniu może wystąpić maksymalnie 16 różnych zmiennych, a jego całkowita długość nie przekroczy 111 znaków.
 
-*Oryginalne tagi: `#logic`*
-
 ---
 
 ## ⚙️ Specyfikacja danych
