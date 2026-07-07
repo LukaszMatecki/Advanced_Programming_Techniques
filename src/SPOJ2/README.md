@@ -12,8 +12,6 @@
 
 Zadanie polega na znalezieniu i wypisaniu w porządku rosnącym wszystkich elementów pierwszego ciągu liczb, które nie występują w drugim ciągu. Na wejściu podawane są dwa posortowane rosnąco ciągi liczb całkowitych: $S = s_1, s_2 \dots s_n$ oraz $Q = q_1, q_2 \dots q_m$.
 
-*Oryginalne tagi: `#basics`*
-
 ---
 
 ## ⚙️ Specyfikacja danych
@@ -31,27 +29,9 @@ Zadanie polega na znalezieniu i wypisaniu w porządku rosnącym wszystkich eleme
 
 ## 💻 Przykładowe dane
 
-<table>
-  <tr>
-    <th width="50%">Wejście (Input)</th>
-    <th width="50%">Wyjście (Output)</th>
-  </tr>
-  <tr>
-    <td valign="top">
-<pre>
-5
--2 -1 0 1 4
-6
--3 -2 -1 1 2 3
-</pre>
-    </td>
-    <td valign="top">
-<pre>
-0 4
-</pre>
-    </td>
-  </tr>
-</table>
+| Wejście (Input) | Wyjście (Output) |
+| :--- | :--- |
+| `5`<br>`-2 -1 0 1 4`<br>`6`<br>`-3 -2 -1 1 2 3` | `0 4` |
 
 ---
 
@@ -64,5 +44,3 @@ W ramach tego zadania przygotowano **dwa podejścia** do rozwiązania problemu w
 
 2. **Wyszukiwanie binarne (`Spoj2_2.java`):**
    Zoptymalizowane podejście wykorzystujące fakt, że ciągi podane na wejściu są już posortowane (zgodnie ze specyfikacją zadania). Zamiast weryfikować każdy element po kolei, program używa wbudowanej metody `Arrays.binarySearch()`. Znacząco redukuje to złożoność czasową do $O(n \log m)$, co czyni to rozwiązanie wydajniejszym.
-
-<br>
