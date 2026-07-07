@@ -18,8 +18,6 @@ Twoim zadaniem jest:
 3. Dodać te dwie liczby do siebie.
 4. Odwrócić otrzymaną sumę i wypisać wynik (pamiętając o pominięciu zer wiodących).
 
-*Oryginalne tagi: `#simple-math` `#ad-hoc-1`*
-
 ---
 
 ## ⚙️ Specyfikacja danych
@@ -35,29 +33,9 @@ Twoim zadaniem jest:
 
 ## 💻 Przykładowe dane
 
-<table>
-  <tr>
-    <th width="50%">Wejście (Input)</th>
-    <th width="50%">Wyjście (Output)</th>
-  </tr>
-  <tr>
-    <td valign="top">
-<pre>
-3
-24 1
-4358 754
-305 794
-</pre>
-    </td>
-    <td valign="top">
-<pre>
-34
-1998
-1
-</pre>
-    </td>
-  </tr>
-</table>
+| Wejście (Input) | Wyjście (Output) |
+| :--- | :--- |
+| `3`<br>`24 1`<br>`4358 754`<br>`305 794` | <br>`34`<br>`1998`<br>`1` |
 
 ---
 
