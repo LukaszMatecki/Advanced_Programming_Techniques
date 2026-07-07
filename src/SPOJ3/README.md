@@ -12,8 +12,6 @@
 
 Zadanie polega na obliczeniu silni ($n!$) dla podanych dodatnich liczb całkowitych. Mimo że liczby wejściowe są stosunkowo małe (maksymalnie do $100$), wynik ich silni rośnie bardzo szybko i znacząco przekracza zakres standardowych typów wbudowanych (takich jak `int` czy `long`). Wymaga to zastosowania specjalnych mechanizmów do obsługi tzw. wielkich liczb (ang. *big numbers*).
 
-*Oryginalne tagi: `#math` `#big-numbers`*
-
 ---
 
 ## ⚙️ Specyfikacja danych
@@ -29,31 +27,9 @@ Zadanie polega na obliczeniu silni ($n!$) dla podanych dodatnich liczb całkowit
 
 ## 💻 Przykładowe dane
 
-<table>
-  <tr>
-    <th width="50%">Wejście (Input)</th>
-    <th width="50%">Wyjście (Output)</th>
-  </tr>
-  <tr>
-    <td valign="top">
-<pre>
-4
-1
-2
-5
-3
-</pre>
-    </td>
-    <td valign="top">
-<pre>
-1
-2
-120
-6
-</pre>
-    </td>
-  </tr>
-</table>
+| Wejście (Input) | Wyjście (Output) |
+| :--- | :--- |
+| `4`<br>`1`<br>`2`<br>`5`<br>`3` | `1`<br>`2`<br>`120`<br>`6` |
 
 ---
 
