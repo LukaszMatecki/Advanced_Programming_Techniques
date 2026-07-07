@@ -52,7 +52,3 @@ Proces przetwarzania danych wejściowych należy natychmiast przerwać, gdy prog
 Rozwiązanie problemu zostało zaimplementowane w języku **Java**. Jest to zadanie wprowadzające, którego głównym celem jest weryfikacja poprawnego zarządzania strumieniami wejścia/wyjścia oraz zastosowania odpowiedniego warunku przerywającego pętlę (np. instrukcji `break`) w trakcie ciągłego odczytu danych.
 
 <br>
-
-<div align="right">
-  <b><a href="../README.md">⬅️ Powrót do listy zadań</a></b>
-</div>
