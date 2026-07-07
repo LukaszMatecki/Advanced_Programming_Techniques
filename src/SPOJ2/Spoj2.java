@@ -1,3 +1,5 @@
+package SPOJ2;
+
 import java.util.*;
 
 public class Spoj2 {

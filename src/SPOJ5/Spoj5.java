@@ -1,3 +1,5 @@
+package SPOJ5;
+
 import java.util.*;
 import java.lang.*;
 

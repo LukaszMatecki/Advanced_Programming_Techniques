@@ -1,3 +1,5 @@
+package SPOJ3;
+
 import java.util.*;
 import java.math.BigInteger;
 

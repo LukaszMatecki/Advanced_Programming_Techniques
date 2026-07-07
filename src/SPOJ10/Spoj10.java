@@ -1,3 +1,5 @@
+package SPOJ10;
+
 import java.util.*;
 
 public class Spoj10 {

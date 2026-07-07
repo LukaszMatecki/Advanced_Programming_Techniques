@@ -1,3 +1,5 @@
+package SPOJ1;
+
 import java.util.Scanner;
 
 public class Spoj1 {

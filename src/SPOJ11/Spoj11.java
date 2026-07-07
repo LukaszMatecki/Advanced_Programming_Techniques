@@ -1,3 +1,5 @@
+package SPOJ11;
+
 import java.util.*;
 import java.lang.*;
 import java.util.Scanner;

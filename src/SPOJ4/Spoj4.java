@@ -1,3 +1,5 @@
+package SPOJ4;
+
 import java.util.*;
 import java.lang.*;
 
@@ -43,7 +45,6 @@ public class Spoj4 {
         if (liczba == 0) {
             return odwrocona;
         }
-        // Bierzemy ostatnią cyfe liczby
         return odwrocRekurencyjnie(liczba / 10, odwrocona * 10 + liczba % 10);
     }
 }
