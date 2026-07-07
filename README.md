@@ -25,18 +25,18 @@ Zbiór obejmuje **12 wyselekcjonowanych problemów**. Każdy z katalogów zawier
 
 | # | Kod SPOJ | Nazwa Problemu | Język | Kod Źródłowy |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | `TEST` | Life, the Universe, and Everything | Java | [Zobacz kod](./Zadanie_1/) |
-| **02** | `SMPSEQ3` | Fun with Sequences | Java | [Zobacz kod](./Zadanie_2/) |
-| **03** | `FCTRL2` | Small factorials | Java | [Zobacz kod](./Zadanie_3/) |
-| **04** | `ADDREV` | Adding Reversed Numbers | Java | [Zobacz kod](./Zadanie_4/) |
-| **05** | `FCTRL` | Factorial | Java | [Zobacz kod](./Zadanie_5/) |
-| **06** | `PALIN` | The Next Palindrome | Java | [Zobacz kod](./Zadanie_6/) |
-| **07** | `MUTDNA` | DNA | Java | [Zobacz kod](./Zadanie_7/) |
-| **08** | `ONP` | Transform the Expression | Java | [Zobacz kod](./Zadanie_8/) |
-| **09** | `TAUT` | Tautology | Java | [Zobacz kod](./Zadanie_9/) |
-| **10** | `HASHIT` | Hash it! | Java | [Zobacz kod](./Zadanie_10/) |
-| **11** | `PRIME1` | Prime Generator | Java | [Zobacz kod](./Zadanie_11/) |
-| **12** | `SBANK` | Sorting Bank Accounts | Java | [Zobacz kod](./Zadanie_12/) |
+| **01** | `TEST` | Life, the Universe, and Everything | Java | [Zobacz kod](./src/SPOJ1/) |
+| **02** | `SMPSEQ3` | Fun with Sequences | Java | [Zobacz kod](./src/SPOJ2/) |
+| **03** | `FCTRL2` | Small factorials | Java | [Zobacz kod](./src/SPOJ3/) |
+| **04** | `ADDREV` | Adding Reversed Numbers | Java | [Zobacz kod](./src/SPOJ4/) |
+| **05** | `FCTRL` | Factorial | Java | [Zobacz kod](./src/SPOJ5/) |
+| **06** | `PALIN` | The Next Palindrome | Java | [Zobacz kod](./src/SPOJ6/) |
+| **07** | `MUTDNA` | DNA | Java | [Zobacz kod](./src/SPOJ7/) |
+| **08** | `ONP` | Transform the Expression | Java | [Zobacz kod](./src/SPOJ8/) |
+| **09** | `TAUT` | Tautology | Java | [Zobacz kod](./src/SPOJ9/) |
+| **10** | `HASHIT` | Hash it! | Java | [Zobacz kod](./src/SPOJ10/) |
+| **11** | `PRIME1` | Prime Generator | Java | [Zobacz kod](./src/SPOJ11/) |
+| **12** | `SBANK` | Sorting Bank Accounts | Java | [Zobacz kod](./src/SPOJ12/) |
 
 ---
 
