@@ -14,8 +14,6 @@ Zadanie polega na przekształceniu w pełni nawiasowanego wyrażenia algebraiczn
 
 Dostępne dwuargumentowe operatory matematyczne to: `+`, `-`, `*`, `/`, `^` (od najniższego do najwyższego priorytetu). Operandami są wyłącznie małe litery alfabetu angielskiego: od `a` do `z`. Wyrażenia są podawane w taki sposób, że każda operacja jest jawnie zamknięta w nawiasach (nie ma wieloznaczności typu `a*b*c`), co eliminuje konieczność ręcznego kontrolowania priorytetów operatorów.
 
-*Oryginalne tagi: `#stack`*
-
 ---
 
 ## ⚙️ Specyfikacja danych
