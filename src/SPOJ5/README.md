@@ -16,8 +16,6 @@ Z uwagi na to, że wartość $N!$ (gdzie $N$ może wynosić do $10^9$) rośnie a
 
 Zera na końcu liczby powstają z mnożenia przez $10$, a w rozkładzie na czynniki pierwsze $10 = 2 \times 5$. W rozwinięciu silni czynników równych $2$ jest zawsze znacznie więcej niż czynników równych $5$. Oznacza to, że całkowita liczba zer na końcu $N!$ jest determinowana wyłącznie przez liczbę wystąpień czynnika $5$ w rozkładzie na czynniki pierwsze wszystkich liczb od $1$ do $N$.
 
-*Oryginalne tagi: `#math`*
-
 ---
 
 ## ⚙️ Specyfikacja danych
@@ -33,35 +31,9 @@ Zera na końcu liczby powstają z mnożenia przez $10$, a w rozkładzie na czynn
 
 ## 💻 Przykładowe dane
 
-<table>
-  <tr>
-    <th width="50%">Wejście (Input)</th>
-    <th width="50%">Wyjście (Output)</th>
-  </tr>
-  <tr>
-    <td valign="top">
-<pre>
-6
-3
-60
-100
-1024
-23456
-8735373
-</pre>
-    </td>
-    <td valign="top">
-<pre>
-0
-14
-24
-253
-5861
-2183837
-</pre>
-    </td>
-  </tr>
-</table>
+| Wejście (Input) | Wyjście (Output) |
+| :--- | :--- |
+| `6`<br>`3`<br>`60`<br>`100`<br>`1024`<br>`23456`<br>`8735373` | <br>`0`<br>`14`<br>`24`<br>`253`<br>`5861`<br>`2183837` |
 
 ---
 
