@@ -10,7 +10,7 @@
 
 ## 📝 Treść zadania
 
-Piotr (Peter) chce wygenerować liczby pierwsze na potrzeby swojego systemu kryptograficznego. Twoim zadaniem jest mu w tym pomóc i napisać program, który wygeneruje wszystkie liczby pierwsze znajdujące się w zadanym przedziale od $m$ do $n$ włącznie.
+Piotr chce wygenerować liczby pierwsze na potrzeby swojego systemu kryptograficznego. Twoim zadaniem jest mu w tym pomóc i napisać program, który wygeneruje wszystkie liczby pierwsze znajdujące się w zadanym przedziale od $m$ do $n$ włącznie.
 
 Przypomnijmy: liczba pierwsza to liczba naturalna większa od $1$, która ma dokładnie dwa dzielniki naturalne – jedynkę i samą siebie.
 
