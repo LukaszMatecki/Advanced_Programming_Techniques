@@ -37,7 +37,7 @@ Aby zachować przejrzystość, poniżej zestawiono trzy odrębne przypadki testo
 
 | Wejście (Input) | Wyjście (Output) |
 | :--- | :--- |
-| `4`<br>`ABBA`<br><br>`5`<br>`BBABB`<br><br>`12`<br>`AAABBBAAABBB` | `2`<br><br><br>`2`<br><br><br>`4` |
+| `4`<br>`ABBA`<br><br>`5`<br>`BBABB`<br><br>`12`<br>`AAABBBAAABBB` | <br>`2`<br><br><br>`2`<br><br><br>`4` |
 
 ---
 
