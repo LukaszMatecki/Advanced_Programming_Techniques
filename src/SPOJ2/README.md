@@ -66,7 +66,3 @@ W ramach tego zadania przygotowano **dwa podejścia** do rozwiązania problemu w
    Zoptymalizowane podejście wykorzystujące fakt, że ciągi podane na wejściu są już posortowane (zgodnie ze specyfikacją zadania). Zamiast weryfikować każdy element po kolei, program używa wbudowanej metody `Arrays.binarySearch()`. Znacząco redukuje to złożoność czasową do $O(n \log m)$, co czyni to rozwiązanie wydajniejszym.
 
 <br>
-
-<div align="right">
-  <b><a href="../README.md">⬅️ Powrót do listy zadań</a></b>
-</div>
