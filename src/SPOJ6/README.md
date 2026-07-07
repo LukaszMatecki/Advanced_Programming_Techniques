@@ -14,8 +14,6 @@ Zadanie polega na znalezieniu najmniejszego palindromu, który jest ostro więks
 
 Z uwagi na to, że podana liczba `K` może składać się z aż do `1 000 000` cyfr, konieczne jest zrezygnowanie ze standardowych operacji matematycznych. Wynikowe liczby zawsze muszą być wyświetlane bez wiodących zer.
 
-*Oryginalne tagi: `#ad-hoc-1`*
-
 ---
 
 ## ⚙️ Specyfikacja danych
@@ -33,27 +31,9 @@ Z uwagi na to, że podana liczba `K` może składać się z aż do `1 000 000` c
 
 ## 💻 Przykładowe dane
 
-<table>
-  <tr>
-    <th width="50%">Wejście (Input)</th>
-    <th width="50%">Wyjście (Output)</th>
-  </tr>
-  <tr>
-    <td valign="top">
-<pre>
-2
-808
-2133
-</pre>
-    </td>
-    <td valign="top">
-<pre>
-818
-2222
-</pre>
-    </td>
-  </tr>
-</table>
+| Wejście (Input) | Wyjście (Output) |
+| :--- | :--- |
+| `2`<br>`808`<br>`2133` | <br>`818`<br>`2222` |
 
 ---
 
